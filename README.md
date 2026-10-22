@@ -13,6 +13,10 @@ A collection of free exam preparation resources, study materials, practice quest
 
 Students looking for free and accessible resources to support their exam preparation and higher education goals.
 
+## Resource Tracker 
+
+Access the complete Excel spreadsheet containing the preparation resources [here](https://docs.google.com/spreadsheets/d/1OCFufkkFCb3jjBYxAi-0gUIpz3_i8wimRLenUu06XR8/edit?gid=1231416591#gid=1231416591).
+
 ## Disclaimer
 
 This repository is an independent collection of resources and is not affiliated with or endorsed by the respective exam organizations. Always verify exam information through official sources.
