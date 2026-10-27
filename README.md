@@ -1,4 +1,4 @@
-# Free dMAT, GRE, IELTS & GMAT Resources
+# Free dMAT, GRE, IELTS, German language & GMAT Resources
 
 A collection of free exam preparation resources, study materials, practice questions, and useful tools for students preparing for dMAT, GRE, IELTS, and GMAT.
 
@@ -7,6 +7,7 @@ A collection of free exam preparation resources, study materials, practice quest
 - **dMAT:** Study materials, practice questions, and preparation resources.
 - **GRE:** Quantitative and Verbal Reasoning resources.
 - **IELTS:** Listening, Reading, Writing, and Speaking practice materials.
+- **German LAnguage:** Free resources for all levels
 - **GMAT:** Quantitative Reasoning, Verbal Reasoning, and Data Insights resources.
 
 ## Who Is This For?
