@@ -8,7 +8,7 @@ A collection of free exam preparation resources, study materials, practice quest
 - **GRE:** Quantitative and Verbal Reasoning resources.
 - **IELTS:** Listening, Reading, Writing, and Speaking practice materials.
 - **German LAnguage:** Free resources for all levels
-- **GMAT:** Currently there are no resources in this sheet so if you wish to contribute please let me know :)
+- **GMAT:** books for quant and verbal have been added
 
 ## Who Is This For?
 
@@ -17,6 +17,10 @@ Students looking for free and accessible resources to support their exam prepara
 ## Resource Tracker 
 
 Access the complete Excel spreadsheet containing the preparation resources [here](https://docs.google.com/spreadsheets/d/1OCFufkkFCb3jjBYxAi-0gUIpz3_i8wimRLenUu06XR8/edit?gid=1231416591#gid=1231416591).
+
+## Resource Contribution
+
+Please feel free to submit resources that you feel might help others
 
 ## Disclaimer
 
