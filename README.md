@@ -9,6 +9,7 @@ A collection of free exam preparation resources, study materials, practice quest
 - **IELTS:** Listening, Reading, Writing, and Speaking practice materials.
 - **German LAnguage:** Free resources for all levels
 - **GMAT:** books for quant and verbal have been added
+- **Miscellaneous:** reources related to uni selection, SOPs, LORs etc
 
 ## Who Is This For?
 
